@@ -14,6 +14,7 @@ D:\WebProgramming\TechnologyWebsite\TechnologyWebsite\obj\Debug\net8.0\Technolog
 D:\WebProgramming\TechnologyWebsite\TechnologyWebsite\obj\Debug\net8.0\TechnologyWebsite.MvcApplicationPartsAssemblyInfo.cache
 D:\WebProgramming\TechnologyWebsite\TechnologyWebsite\obj\Debug\net8.0\TechnologyWebsite.RazorAssemblyInfo.cache
 D:\WebProgramming\TechnologyWebsite\TechnologyWebsite\obj\Debug\net8.0\TechnologyWebsite.RazorAssemblyInfo.cs
+D:\WebProgramming\TechnologyWebsite\TechnologyWebsite\obj\Debug\net8.0\TechnologyWebsite.sourcelink.json
 D:\WebProgramming\TechnologyWebsite\TechnologyWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\WebProgramming\TechnologyWebsite\TechnologyWebsite\obj\Debug\net8.0\scopedcss\bundle\TechnologyWebsite.styles.css
 D:\WebProgramming\TechnologyWebsite\TechnologyWebsite\obj\Debug\net8.0\scopedcss\projectbundle\TechnologyWebsite.bundle.scp.css

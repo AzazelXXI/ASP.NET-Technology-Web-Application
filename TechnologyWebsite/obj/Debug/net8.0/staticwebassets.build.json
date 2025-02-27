@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uYEUY+bjZg+s+PJhuKaSPlqJiqk6kM7XP43pvfVWP54=",
+  "Hash": "dVJzKg/ma1rx3KM8lLcF3x4a/tSZlhDGw9Y033Yixok=",
   "Source": "TechnologyWebsite",
   "BasePath": "_content/TechnologyWebsite",
   "Mode": "Default",
@@ -59,12 +59,12 @@
       "OriginalItemSpec": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TechnologyWebsite.bundle.scp.css"
     },
     {
-      "Identity": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\site.css",
+      "Identity": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\home.css",
       "SourceId": "TechnologyWebsite",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/TechnologyWebsite",
-      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "RelativePath": "css/home#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -73,11 +73,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "2ziwwwlphf",
+      "Integrity": "8qfSIMaTXC/ffMZC/bSIYHdIaFY9S7YhJ4/5WiNFgvE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\home.css"
+    },
+    {
+      "Identity": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\login.css",
+      "SourceId": "TechnologyWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\",
+      "BasePath": "_content/TechnologyWebsite",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "crvwtllg9w",
+      "Integrity": "yGk36FRc0+cF2zetzGycWjVlw+2GZFFOMJUzUIe0GQ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\register.css",
+      "SourceId": "TechnologyWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\",
+      "BasePath": "_content/TechnologyWebsite",
+      "RelativePath": "css/register#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9m1cq8rtxe",
+      "Integrity": "zwJrV7HWweS7D5Bq7qPCZEbTtZ8UKZXeleV9qJNN3QA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\register.css"
     },
     {
       "Identity": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\favicon.ico",
@@ -1321,8 +1363,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\site.css",
+      "Route": "css/home.2ziwwwlphf.css",
+      "AssetFile": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\home.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1331,7 +1373,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "2642"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1381,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"8qfSIMaTXC/ffMZC/bSIYHdIaFY9S7YhJ4/5WiNFgvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 03:17:47 GMT"
+          "Value": "Sat, 22 Feb 2025 06:11:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,21 +1395,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "2ziwwwlphf"
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "css/home.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-8qfSIMaTXC/ffMZC/bSIYHdIaFY9S7YhJ4/5WiNFgvE="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\site.css",
+      "Route": "css/home.css",
+      "AssetFile": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\home.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1376,7 +1418,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "2642"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1426,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"8qfSIMaTXC/ffMZC/bSIYHdIaFY9S7YhJ4/5WiNFgvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 03:17:47 GMT"
+          "Value": "Sat, 22 Feb 2025 06:11:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1440,171 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-8qfSIMaTXC/ffMZC/bSIYHdIaFY9S7YhJ4/5WiNFgvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.crvwtllg9w.css",
+      "AssetFile": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yGk36FRc0+cF2zetzGycWjVlw+2GZFFOMJUzUIe0GQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 07:25:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "crvwtllg9w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yGk36FRc0+cF2zetzGycWjVlw+2GZFFOMJUzUIe0GQ4="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yGk36FRc0+cF2zetzGycWjVlw+2GZFFOMJUzUIe0GQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 07:25:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yGk36FRc0+cF2zetzGycWjVlw+2GZFFOMJUzUIe0GQ4="
+        }
+      ]
+    },
+    {
+      "Route": "css/register.9m1cq8rtxe.css",
+      "AssetFile": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\register.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zwJrV7HWweS7D5Bq7qPCZEbTtZ8UKZXeleV9qJNN3QA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 07:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9m1cq8rtxe"
+        },
+        {
+          "Name": "label",
+          "Value": "css/register.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zwJrV7HWweS7D5Bq7qPCZEbTtZ8UKZXeleV9qJNN3QA="
+        }
+      ]
+    },
+    {
+      "Route": "css/register.css",
+      "AssetFile": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\register.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zwJrV7HWweS7D5Bq7qPCZEbTtZ8UKZXeleV9qJNN3QA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 07:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zwJrV7HWweS7D5Bq7qPCZEbTtZ8UKZXeleV9qJNN3QA="
         }
       ]
     },
@@ -6263,7 +6469,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 04:04:18 GMT"
+          "Value": "Sat, 22 Feb 2025 06:08:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6300,7 +6506,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 04:04:18 GMT"
+          "Value": "Sat, 22 Feb 2025 06:08:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6345,7 +6551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 04:04:18 GMT"
+          "Value": "Sat, 22 Feb 2025 06:08:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6390,7 +6596,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 04:04:18 GMT"
+          "Value": "Sat, 22 Feb 2025 06:08:42 GMT"
         },
         {
           "Name": "Cache-Control",

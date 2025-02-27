@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\WebProgramming\\TechnologyWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|d:\\webprogramming\\technologywebsite\\technologywebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|solutionrelative:technologywebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|d:\\webprogramming\\technologywebsite\\technologywebsite\\views\\authenticate\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|solutionrelative:technologywebsite\\views\\authenticate\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|d:\\webprogramming\\technologywebsite\\technologywebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|solutionrelative:technologywebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|d:\\webprogramming\\technologywebsite\\technologywebsite\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|solutionrelative:technologywebsite\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|d:\\webprogramming\\technologywebsite\\technologywebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|solutionrelative:technologywebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|d:\\webprogramming\\technologywebsite\\technologywebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|solutionrelative:technologywebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|d:\\webprogramming\\technologywebsite\\technologywebsite\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B8E448-A682-4331-AC4C-76735D31AE86}|TechnologyWebsite\\TechnologyWebsite.csproj|solutionrelative:technologywebsite\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,28 +30,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "TechnologyWebsite\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "TechnologyWebsite\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T12:39:50.624Z",
+              "DocumentIndex": 1,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "TechnologyWebsite\\wwwroot\\css\\login.css",
+              "ToolTip": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "TechnologyWebsite\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-27T07:04:21.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TechnologyWebsite\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "TechnologyWebsite\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\Views\\Authenticate\\Login.cshtml",
+              "RelativeDocumentMoniker": "TechnologyWebsite\\Views\\Authenticate\\Login.cshtml",
+              "ToolTip": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\Views\\Authenticate\\Login.cshtml*",
+              "RelativeToolTip": "TechnologyWebsite\\Views\\Authenticate\\Login.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T04:20:20.99Z",
+              "WhenOpened": "2025-02-27T07:04:11.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "TechnologyWebsite\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "TechnologyWebsite\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:04:07.824Z",
               "EditorCaption": ""
             },
             {
@@ -62,22 +75,9 @@
               "RelativeDocumentMoniker": "TechnologyWebsite\\Program.cs",
               "ToolTip": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\Program.cs",
               "RelativeToolTip": "TechnologyWebsite\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T04:00:10.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TechnologyWebsite\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "TechnologyWebsite\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T03:48:52.273Z",
+              "WhenOpened": "2025-02-27T06:07:24.713Z",
               "EditorCaption": ""
             }
           ]

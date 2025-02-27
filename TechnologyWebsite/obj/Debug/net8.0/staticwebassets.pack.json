@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\TechnologyWebsite.fitvq3hqxm.bundle.scp.css"
     },
     {
-      "Id": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
     },
     {
       "Id": "D:\\WebProgramming\\TechnologyWebsite\\TechnologyWebsite\\wwwroot\\favicon.ico",

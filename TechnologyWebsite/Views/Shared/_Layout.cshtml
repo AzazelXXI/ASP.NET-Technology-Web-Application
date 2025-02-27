@@ -3,16 +3,16 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - TechnologyWebsite</title>
+    <title>@ViewData["Title"] - Nhóm 3</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/TechnologyWebsite.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/custom.css" />  @* Thêm file CSS tùy chỉnh của bạn *@
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">TechnologyWebsite</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Tên Trang Web</a>  @* Thay bằng tên trang web của bạn *@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -23,7 +23,18 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Blog">Blog</a> @* Thêm link Blog nếu cần *@
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a> @* Thêm link About Us nếu cần *@
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="SignUp">Sign Up</a> @* Link Sign Up *@
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="LogIn">Log In</a>  @* Link Log In *@
                         </li>
                     </ul>
                 </div>
@@ -32,18 +43,19 @@
     </header>
     <div class="container">
         <main role="main" class="pb-3">
-            @RenderBody()
+            @RenderBody()  @* Nội dung trang con sẽ được render ở đây *@
         </main>
     </div>
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2025 - TechnologyWebsite - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; @DateTime.Now.Year - Tên Trang Web Của Bạn - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>  @* Thêm thông tin footer *@
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/site.js"></script>
+    <script src="~/js/custom.js"></script>  @* Thêm file JS tùy chỉnh của bạn *@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

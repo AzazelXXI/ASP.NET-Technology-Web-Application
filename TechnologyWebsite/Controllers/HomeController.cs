@@ -8,24 +8,16 @@ namespace TechnologyWebsite.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        public string message = "Hello World";
 
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }
 
-        [HttpGet]
-        [Route("redirect/gohome")]
         public IActionResult Index()
         {
-            return RedirectToAction("hello");
-        }
-
-        [HttpGet]
-        [Route("simple/hello")]
-        public string hello()
-        {
-            return "Hello ASP.NET MVC!";
+            return View();
         }
 
         public IActionResult Privacy()

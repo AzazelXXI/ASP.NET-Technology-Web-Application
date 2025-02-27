@@ -1,0 +1,75 @@
+/* custom.css */
+
+body {
+    font-family: sans-serif; /* Chọn font chữ sans-serif đơn giản, giống hình mẫu */
+    background-color: #f8f9fa; /* Màu nền xám nhạt, tương tự hình mẫu */
+}
+
+.navbar {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem; /* Giảm padding navbar để gọn gàng hơn */
+}
+
+.navbar-brand {
+    font-weight: bold; /* Làm đậm tên trang web trong navbar */
+}
+
+.nav-link {
+    margin-left: 1rem; /* Tạo khoảng cách giữa các link navbar */
+    margin-right: 1rem;
+    color: #495057; /* Màu chữ link navbar xám đậm hơn */
+}
+
+.nav-link:hover {
+    color: #000; /* Màu chữ link khi hover đen */
+}
+
+.input-group {
+    margin-bottom: 2rem; /* Tăng khoảng cách phía dưới thanh tìm kiếm */
+}
+
+.form-control {
+    border-radius: 0.25rem; /* Bo tròn nhẹ góc input tìm kiếm */
+    border: 1px solid #ced4da; /* Viền input tìm kiếm màu xám nhạt */
+    box-shadow: none !important; /* Loại bỏ box-shadow mặc định của Bootstrap khi focus */
+}
+
+.form-control:focus {
+    border-color: #80bdff; /* Viền input tìm kiếm khi focus màu xanh nhạt */
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25) !important; /* Thêm box-shadow nhẹ khi focus */
+}
+
+.btn-outline-secondary {
+    border-radius: 0.25rem; /* Bo tròn nhẹ góc nút tìm kiếm */
+}
+
+.card {
+    border-radius: 0.5rem; /* Bo tròn góc card */
+    border: 1px solid #dee2e6; /* Viền card màu xám nhạt */
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.08); /* Đổ bóng nhẹ cho card */
+}
+
+.card-img-top {
+    border-top-left-radius: 0.5rem; /* Bo tròn góc trên bên trái ảnh card */
+    border-top-right-radius: 0.5rem; /* Bo tròn góc trên bên phải ảnh card */
+    background-color: #e0e0e0; /* Màu nền xám rất nhạt cho placeholder ảnh */
+    height: 200px; /* Chiều cao cố định cho placeholder ảnh (tùy chỉnh) */
+    object-fit: cover; /* Đảm bảo ảnh không bị méo mó trong khung */
+}
+
+.card-title {
+    font-weight: bold; /* Làm đậm tên mục trong card */
+    margin-bottom: 0.5rem; /* Khoảng cách dưới tiêu đề card */
+}
+
+.card-text {
+    color: #6c757d; /* Màu chữ mô tả trong card xám vừa */
+}
+
+.card-footer {
+    background-color: transparent; /* Nền footer card trong suốt */
+    border-top: none; /* Loại bỏ viền trên của footer card */
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem; /* Tăng padding footer card */
+    text-align: right; /* Căn chữ footer card sang phải */
+}
